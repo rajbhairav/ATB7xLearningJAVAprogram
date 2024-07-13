@@ -6,7 +6,7 @@ public class Lab017 {
 
         // max age of the person in the world ? -
         byte age= 122; // age > 127 // less memory -> smart container - good practice
-        int age = 100; // wasting memory - 214768348488
+        int age1 = 100; // wasting memory - 214768348488
 
         // program store pi with only 2 decimal 3.14, 3.142323237866999
         float pi = 3.14f;
